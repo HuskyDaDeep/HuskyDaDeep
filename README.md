@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Programando desde 2023<br>📚 Estou cursando técnico em Analise e Desenvolvimento de Sistemas.<br>🎲 Fato curioso: Além de programador, nas horas vagas eu atuo como musico.✨ Programando desde 2023<br>📚 Estou cursando técnico em Analise e Desenvolvimento de Sistemas.<br>🎲 Fato curioso: Além de programador, nas horas vagas eu atuo como musico.</p>
+<p align="left">✨ Programando desde 2023<br>📚 Estou cursando técnico em Analise e Desenvolvimento de Sistemas.<br>🎲 Fato curioso: Além de programador, nas horas vagas eu atuo como musico.</p>
 
 ###
 
